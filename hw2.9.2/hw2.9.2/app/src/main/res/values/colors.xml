@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_page">#F8FAFC</color>
+    <color name="header_start">#0F172A</color>
+    <color name="header_end">#1E3A8A</color>
+    <color name="accent_blue">#2563EB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="text_main">#0F172A</color>
+    <color name="text_sub">#64748B</color>
+    <color name="chip_bg">#EFF6FF</color>
+    <color name="chip_text">#1D4ED8</color>
+</resources>

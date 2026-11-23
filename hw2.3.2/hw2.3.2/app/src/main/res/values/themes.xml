@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CalculatorNorm" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/btn_op_bg</item>
+        <item name="android:statusBarColor">@color/calc_bg</item>
+        <item name="android:navigationBarColor">@color/calc_bg</item>
+        <item name="android:windowBackground">@color/calc_bg</item>
+    </style>
+
+    <style name="Theme.CalculatorNorm" parent="Base.Theme.CalculatorNorm" />
+</resources>

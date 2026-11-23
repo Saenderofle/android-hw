@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="search_hint">Введіть щонайменше 3 символи…</string>
+    <string name="search">Знайти</string>
+    <string name="search_initial_message">Введіть запит для миттєвого пошуку по каталогу</string>
+    <string name="search_subtitle">Пошук компонентів Android та Kotlin</string>
+</resources>
